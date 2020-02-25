@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+- Programming
+  - HTML5
+  - CSS3
+  - SASS
+  - PYTHON
+  - PHP
+
+- Games
+  - Path of Exile
+  - WoW
+  - Dota2
